@@ -1,0 +1,12 @@
+openpyxl
+pandas
+numpy
+streamlit
+matplotlib
+plotly
+torch
+sentence-transformers
+scikit-learn
+umap-learn
+gudhi
+cohere
